@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 Ayacucho es conocida como la ciudad de 33 iglesias, en esta pagina podra encontrar informacion acerca de los restaurantes 
 y hoteles de la ciudad.
 
-baseurl: C:/Users/DannyK/Desktop/uml/proyecto # the subpath of your site, e.g. /blog/
+baseurl: /proyecto # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
